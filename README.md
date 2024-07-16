@@ -1,2 +1,2 @@
-## Arquivo Json do Dashboard do Grafana do Projeto
+## Arquivo Json Dashboard do Grafana, Projeto:
 "iac-heat-create-template-prometheus-grafana Public"
